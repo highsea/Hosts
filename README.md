@@ -7,14 +7,14 @@ by huhamhire-hosts
 
 #### 更新记录
 
-# Version: 1.5.6
-# BuildTime: 1427678294
-# ApplyTime: 1427688004
-#
+> Version: 1.5.6
+> BuildTime: 1427678294
+> ApplyTime: 1427688004
 
-# Version: 1.5.5
-# BuildTime: 1422408276
-# ApplyTime: 1427687621
+
+> Version: 1.5.5
+> BuildTime: 1422408276
+> ApplyTime: 1427687621
 
 
 > Version: 1.5.4
