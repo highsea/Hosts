@@ -5,6 +5,22 @@ Hosts
 
 by huhamhire-hosts
 
+#### 使用方法
+
+##### Windows：
+
+不废话了：
+
+    C:\Windows\System32\drivers\etc\hosts
+
+##### MAC OSX
+
+最直观的方法：
+
+    sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
+
+那么就可以用记事本复制了
+
 #### 更新记录
 
 > Version: 1.5.7
