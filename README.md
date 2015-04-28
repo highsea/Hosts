@@ -7,6 +7,10 @@ by huhamhire-hosts
 
 #### 更新记录
 
+> Version: 1.5.7
+> BuildTime: 1429952085
+> ApplyTime: 1430223160
+
 > Version: 1.5.6
 > BuildTime: 1427678294
 > ApplyTime: 1427688004
