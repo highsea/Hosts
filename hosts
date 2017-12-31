@@ -3756,5 +3756,18 @@
 210.200.141.52	fs.thebodyshop.com.tw
 #thebodyshop end
 
+# pixiv test start
+210.129.120.41 www.pixiv.net
+210.129.120.41 accounts.pixiv.net
+210.129.120.41 touch.pixiv.net
+210.129.120.43 www.pixiv.net
+210.129.120.43 accounts.pixiv.net
+210.129.120.43 touch.pixiv.net
+210.129.120.44 www.pixiv.net
+210.129.120.44 accounts.pixiv.net
+210.129.120.44 touch.pixiv.net
+210.129.120.41 pixiv.net
+210.140.131.147 source.pixiv.net
+# pixiv test end
 
 # Modified hosts end
