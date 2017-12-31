@@ -3737,15 +3737,15 @@
 61.91.161.217	www.youtube-nocookie.com
 # Youtube end
 
-#culturalspot start
+# culturalspot start
 61.91.161.217	embed.culturalspot.org
-#culturalspot end
+# culturalspot end
 
-#autodraw start
+# autodraw start
 172.217.25.243	www.autodraw.com
-#autodraw end
+# autodraw end
 
-#thebodyshop start
+# thebodyshop start
 184.31.34.218	assets.thebodyshop.com
 52.214.109.54	www.thebodyshop.com
 52.48.212.136	thebodyshop.com
@@ -3754,7 +3754,7 @@
 52.76.11.9	www.thebodyshop.com.hk
 151.101.0.230	apps.nexus.bazaarvoice.com
 210.200.141.52	fs.thebodyshop.com.tw
-#thebodyshop end
+# thebodyshop end
 
 # pixiv test start
 210.129.120.41 www.pixiv.net
